@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM ekweti/NewWebsite
 ADD . /var/www/html
